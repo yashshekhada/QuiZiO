@@ -5,6 +5,7 @@
         android:id="@+id/language"
         android:icon="@drawable/ic_language"
         android:title="@string/select_language"
+        android:iconTint="@color/black"
         app:showAsAction="always" />
 
 </menu>

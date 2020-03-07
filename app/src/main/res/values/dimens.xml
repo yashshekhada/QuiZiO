@@ -1,7 +1,7 @@
 <resources>
 
 
-    <dimen name="margin_dp">15dp</dimen>
+    <dimen name="margin_dp">0dp</dimen>
     <dimen name="progress_h_w">40dp</dimen>
     <dimen name="circle_progress">35dp</dimen>
     <dimen name="que_img_height">120dp</dimen>

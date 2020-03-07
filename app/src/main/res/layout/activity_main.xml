@@ -4,7 +4,7 @@
     android:id="@+id/main_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient_bg"
+    android:background="@drawable/header_bg"
     android:fitsSystemWindows="true"
     tools:context=".activity.MainActivity">
 
@@ -12,18 +12,19 @@
         android:id="@+id/toolBar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/transparent"
+        android:background="@drawable/header_bg"
         android:theme="@style/AppTheme.AppBarOverlay"
         app:contentInsetLeft="0dp"
         app:contentInsetStart="0dp"
         app:contentInsetStartWithNavigation="0dp"
         app:titleTextAppearance="@style/Base.TextAppearance.AppCompat.Large"
-        app:titleTextColor="@color/white" />
+        app:titleTextColor="#2D2D2D" />
 
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="#FFFFFF"
         android:layout_below="@+id/toolBar">
 
 
@@ -120,17 +121,15 @@
             android:id="@+id/mainLogo"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_above="@+id/btnLayout"
+            android:layout_above="@+id/btnLayout">
 
 
-            >
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_centerInParent="true"
-                android:src="@drawable/logo" />
-
+        <ss.com.bannerslider.Slider
+            android:background="@drawable/indicator_round_square_selected"
+            android:id="@+id/banner_slider1"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            />
         </RelativeLayout>
 
         <LinearLayout
@@ -138,7 +137,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
-            android:background="@color/white"
+            android:background="#E5E5E5"
             android:minHeight="?attr/actionBarSize"
             android:orientation="horizontal"
 

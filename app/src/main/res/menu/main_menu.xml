@@ -7,14 +7,17 @@
         android:id="@+id/bookmark"
         android:icon="@drawable/ic_unmark"
         android:title="@string/bookmarks"
+        android:iconTint="@color/black"
         app:showAsAction="always" />
     <item
         android:id="@+id/report"
         android:icon="@drawable/ic_report"
         android:title="@string/report"
+        android:iconTint="@color/black"
         app:showAsAction="always" />
     <item
         android:id="@+id/setting"
+        android:iconTint="@color/black"
         android:icon="@drawable/ic_settings"
         android:title="@string/action_settings"
         app:showAsAction="always" />

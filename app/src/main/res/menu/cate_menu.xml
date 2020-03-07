@@ -6,11 +6,13 @@
             android:id="@+id/language"
             android:icon="@drawable/ic_language1"
             android:title="@string/select_language"
+        android:iconTint="@color/black"
             app:showAsAction="always" />
         <item
             android:id="@+id/setting"
             android:icon="@drawable/ic_settings"
             android:title="@string/action_settings"
+            android:iconTint="@color/black"
             app:showAsAction="always" />
 
     </menu>

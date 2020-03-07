@@ -25,7 +25,8 @@
         android:layout_above="@+id/lytLogin">
 
         <ImageView
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
+
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:src="@drawable/logo" />
@@ -135,7 +136,7 @@
                         android:padding="7dp"
                         android:text="@string/signup"
                         android:textAllCaps="false"
-                        android:textColor="@color/white"
+                        android:textColor="#E5E5E5"
                         android:textSize="@dimen/mid_text"
                         android:textStyle="bold" />
 
@@ -152,7 +153,7 @@
                         android:padding="7dp"
                         android:text="@string/login"
                         android:textAllCaps="false"
-                        android:textColor="@color/white"
+                        android:textColor="#E5E5E5"
                         android:textSize="@dimen/mid_text"
                         android:textStyle="bold" />
                 </LinearLayout>
