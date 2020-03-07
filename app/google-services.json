@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999134660572",
+    "firebase_url": "https://govqz-264109.firebaseio.com",
+    "project_id": "govqz-264109",
+    "storage_bucket": "govqz-264109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999134660572:android:e0a4a54c0aba0e369fb119",
+        "android_client_info": {
+          "package_name": "com.jdevio.quizio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999134660572-k994n43qj0tp51q0spgepmjlhmm7knf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jdevio.quizio",
+            "certificate_hash": "203f8186257624ff8220c6385649940b1c555128"
+          }
+        },
+        {
+          "client_id": "999134660572-055vtkb114vdq813ujmi1t8fguji4ovf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTssHPypjpDzCPDtNwDADqLcsF1yESiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999134660572-055vtkb114vdq813ujmi1t8fguji4ovf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
