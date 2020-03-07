@@ -172,45 +172,45 @@
             android:paddingTop="@dimen/margin_10dp"
             android:orientation="horizontal">
 
-            <RelativeLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="@dimen/margin_dp"
-                android:background="@drawable/google_bg"
-                android:onClick="LoginWithGoogle">
+<!--            <RelativeLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginEnd="@dimen/margin_dp"-->
+<!--                android:background="@drawable/google_bg"-->
+<!--                android:onClick="LoginWithGoogle">-->
 
-                <com.jdevio.quizio.helper.CircleImageView1
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    app:srcCompat="@drawable/ic_google" />
+<!--                <com.jdevio.quizio.helper.CircleImageView1-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    app:srcCompat="@drawable/ic_google" />-->
 
-            </RelativeLayout>
+<!--            </RelativeLayout>-->
 
-            <RelativeLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="@dimen/margin_dp"
-                android:background="@drawable/fb_bg"
-                android:onClick="LoginWithFacebook">
+<!--            <RelativeLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginEnd="@dimen/margin_dp"-->
+<!--                android:background="@drawable/fb_bg"-->
+<!--                android:onClick="LoginWithFacebook">-->
 
-                <com.jdevio.quizio.helper.CircleImageView1
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="2dp"
-                    app:srcCompat="@drawable/ic_facebook" />
+<!--                <com.jdevio.quizio.helper.CircleImageView1-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_margin="2dp"-->
+<!--                    app:srcCompat="@drawable/ic_facebook" />-->
 
 
-            </RelativeLayout>
+<!--            </RelativeLayout>-->
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:layout_marginEnd="@dimen/margin_dp"
-                android:text="@string/or"
-                android:textAllCaps="true"
-                android:textColor="@color/colorPrimaryDark"
-                android:textStyle="bold" />
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_gravity="center_vertical"-->
+<!--                android:layout_marginEnd="@dimen/margin_dp"-->
+<!--                android:text="@string/or"-->
+<!--                android:textAllCaps="true"-->
+<!--                android:textColor="@color/colorPrimaryDark"-->
+<!--                android:textStyle="bold" />-->
 
             <RelativeLayout
                 android:layout_width="wrap_content"
