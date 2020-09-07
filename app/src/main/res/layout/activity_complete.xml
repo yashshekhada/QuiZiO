@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="@color/bg_color"
-    tools:context="com.jdevio.quizio.activity.CompleteActivity">
+    tools:context="com.jdit.quizio.activity.CompleteActivity">
 
 
     <include layout="@layout/toolbar_layout" />
@@ -207,7 +207,7 @@
                             android:layout_height="match_parent"
                             android:layout_weight="1.4">
 
-                            <com.jdevio.quizio.helper.AudienceProgress
+                            <com.jdit.quizio.helper.AudienceProgress
                                 android:id="@+id/result_progress"
                                 android:layout_width="@dimen/result_circle"
                                 android:layout_height="@dimen/result_circle"

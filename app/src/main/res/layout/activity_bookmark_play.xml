@@ -72,7 +72,7 @@
                 android:gravity="center"
                 android:orientation="vertical">
 
-                <com.jdevio.quizio.helper.CircleTimer
+                <com.jdit.quizio.helper.CircleTimer
                     android:id="@+id/progressBarTwo"
                     android:layout_width="@dimen/progress_h_w"
                     android:layout_height="@dimen/progress_h_w"
@@ -167,7 +167,7 @@
                             </RelativeLayout>
                         </ScrollView>
 
-                        <com.jdevio.quizio.helper.TouchImageView
+                        <com.jdit.quizio.helper.TouchImageView
                             android:id="@+id/imgQuestion"
                             android:layout_width="@dimen/img_width"
                             android:layout_height="wrap_content"

@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "999134660572-9nkllamebd76lb1cf8n5jm6hc81ve57t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jdevio.quizio",
+            "certificate_hash": "61dd562239374da5ec07497046a2b64d6ec58b83"
+          }
+        },
+        {
           "client_id": "999134660572-k994n43qj0tp51q0spgepmjlhmm7knf2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -36,7 +44,44 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "999134660572-055vtkb114vdq813ujmi1t8fguji4ovf.apps.googleusercontent.com",
+              "client_id": "999134660572-kupi6o1lrsof2h8uo6l1ig63uaa8uhts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999134660572:android:e4c9e2ea76c56bd29fb119",
+        "android_client_info": {
+          "package_name": "com.jdit.quizio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999134660572-p9h4aipvll2llnlkr42ejbaj4dfnppmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jdit.quizio",
+            "certificate_hash": "61dd562239374da5ec07497046a2b64d6ec58b83"
+          }
+        },
+        {
+          "client_id": "999134660572-055vtkb114vdq813ujmi1t8fguji4ovf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTssHPypjpDzCPDtNwDADqLcsF1yESiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999134660572-kupi6o1lrsof2h8uo6l1ig63uaa8uhts.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

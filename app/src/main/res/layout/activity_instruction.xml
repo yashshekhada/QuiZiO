@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@color/bg_color"
 
-    tools:context="com.jdevio.quizio.activity.InstructionActivity">
+    tools:context="com.jdit.quizio.activity.InstructionActivity">
 
 
     <include layout="@layout/toolbar_layout" />

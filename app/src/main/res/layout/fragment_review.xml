@@ -56,7 +56,7 @@
                     </RelativeLayout>
                 </ScrollView>
 
-                <com.jdevio.quizio.helper.TouchImageView
+                <com.jdit.quizio.helper.TouchImageView
                     android:id="@+id/imgQuestion"
                     android:layout_width="@dimen/img_width"
                     android:layout_height="@dimen/img_height"

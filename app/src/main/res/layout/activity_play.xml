@@ -7,7 +7,7 @@
     android:background="@color/bg_color"
 
     android:orientation="vertical"
-    tools:context="com.jdevio.quizio.activity.PlayActivity">
+    tools:context="com.jdit.quizio.activity.PlayActivity">
 
 
     <include layout="@layout/toolbar_layout" />
@@ -118,7 +118,7 @@
                         android:gravity="center"
                         android:padding="3dp">
 
-                        <com.jdevio.quizio.helper.CircleTimer
+                        <com.jdit.quizio.helper.CircleTimer
                             android:id="@+id/circleTimer"
                             android:layout_width="@dimen/progress_h_w"
                             android:layout_height="@dimen/progress_h_w"
@@ -259,7 +259,7 @@
                                             </RelativeLayout>
                                         </ScrollView>
 
-                                        <com.jdevio.quizio.helper.TouchImageView
+                                        <com.jdit.quizio.helper.TouchImageView
                                             android:id="@+id/imgQuestion"
                                             android:layout_width="@dimen/img_width"
                                             android:layout_height="@dimen/img_height"
@@ -416,7 +416,7 @@
                                             android:text="@string/answer"
                                             android:textColor="@color/txt_color" />
 
-                                        <com.jdevio.quizio.helper.AudienceProgress
+                                        <com.jdit.quizio.helper.AudienceProgress
                                             android:id="@+id/progress_A"
                                             android:layout_width="@dimen/circle_progress"
                                             android:layout_height="@dimen/circle_progress"
@@ -464,7 +464,7 @@
                                             android:text="@string/answer"
                                             android:textColor="@color/txt_color" />
 
-                                        <com.jdevio.quizio.helper.AudienceProgress
+                                        <com.jdit.quizio.helper.AudienceProgress
                                             android:id="@+id/progress_B"
                                             android:layout_width="@dimen/circle_progress"
                                             android:layout_height="@dimen/circle_progress"
@@ -512,7 +512,7 @@
                                             android:text="@string/answer"
                                             android:textColor="@color/txt_color" />
 
-                                        <com.jdevio.quizio.helper.AudienceProgress
+                                        <com.jdit.quizio.helper.AudienceProgress
                                             android:id="@+id/progress_C"
                                             android:layout_width="@dimen/circle_progress"
                                             android:layout_height="@dimen/circle_progress"
@@ -560,7 +560,7 @@
                                             android:text="@string/answer"
                                             android:textColor="@color/txt_color" />
 
-                                        <com.jdevio.quizio.helper.AudienceProgress
+                                        <com.jdit.quizio.helper.AudienceProgress
                                             android:id="@+id/progress_D"
                                             android:layout_width="@dimen/circle_progress"
                                             android:layout_height="@dimen/circle_progress"
@@ -607,7 +607,7 @@
                                             android:text="@string/answer"
                                             android:textColor="@color/txt_color" />
 
-                                        <com.jdevio.quizio.helper.AudienceProgress
+                                        <com.jdit.quizio.helper.AudienceProgress
                                             android:id="@+id/progress_E"
                                             android:layout_width="@dimen/circle_progress"
                                             android:layout_height="@dimen/circle_progress"

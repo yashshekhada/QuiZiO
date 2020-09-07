@@ -36,7 +36,7 @@
                 android:textColor="@color/colorPrimaryDark"
                 android:textStyle="bold" />
 
-            <com.jdevio.quizio.helper.CircleTimer
+            <com.jdit.quizio.helper.CircleTimer
                 android:id="@+id/circleTimer"
                 android:layout_width="@dimen/progress_h_w"
                 android:layout_height="@dimen/progress_h_w"
@@ -88,7 +88,7 @@
                     android:layout_gravity="center"
                     android:background="@drawable/button_bg">
 
-                    <com.jdevio.quizio.helper.CircleImageView
+                    <com.jdit.quizio.helper.CircleImageView
                         android:id="@+id/iv_player1_pic"
                         android:layout_width="50dp"
                         android:layout_height="50dp"
@@ -179,7 +179,7 @@
                     android:layout_gravity="center"
                     android:background="@drawable/button_bg">
 
-                    <com.jdevio.quizio.helper.CircleImageView
+                    <com.jdit.quizio.helper.CircleImageView
                         android:id="@+id/iv_player2_pic"
                         android:layout_width="50dp"
                         android:layout_height="50dp"
@@ -323,7 +323,7 @@
                                 </RelativeLayout>
                             </ScrollView>
 
-                            <com.jdevio.quizio.helper.TouchImageView
+                            <com.jdit.quizio.helper.TouchImageView
                                 android:id="@+id/imgQuestion"
                                 android:layout_width="@dimen/img_width"
                                 android:layout_height="wrap_content"

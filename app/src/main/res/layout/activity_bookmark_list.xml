@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@color/bg_color"
 
-    tools:context="com.jdevio.quizio.activity.BookmarkList">
+    tools:context="com.jdit.quizio.activity.BookmarkList">
 
     <include layout="@layout/toolbar_layout" />
 

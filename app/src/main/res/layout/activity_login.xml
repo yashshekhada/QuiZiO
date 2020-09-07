@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradient_bg"
-    tools:context="com.jdevio.quizio.activity.LoginActivity">
+    tools:context="com.jdit.quizio.activity.LoginActivity">
 
     <TextView
         android:id="@+id/tvPrivacy"
@@ -180,7 +180,7 @@
 <!--                android:background="@drawable/google_bg"-->
 <!--                android:onClick="LoginWithGoogle">-->
 
-<!--                <com.jdevio.quizio.helper.CircleImageView1-->
+<!--                <jdituizio.helper.CircleImageView1-->
 <!--                    android:layout_width="wrap_content"-->
 <!--                    android:layout_height="wrap_content"-->
 <!--                    app:srcCompat="@drawable/ic_google" />-->
@@ -194,7 +194,7 @@
 <!--                android:background="@drawable/fb_bg"-->
 <!--                android:onClick="LoginWithFacebook">-->
 
-<!--                <com.jdevio.quizio.helper.CircleImageView1-->
+<!--                <jdituizio.helper.CircleImageView1-->
 <!--                    android:layout_width="wrap_content"-->
 <!--                    android:layout_height="wrap_content"-->
 <!--                    android:layout_margin="2dp"-->
@@ -220,7 +220,7 @@
                 android:background="@drawable/guest_bg"
                 android:onClick="PlayAsGuest">
 
-                <com.jdevio.quizio.helper.CircleImageView1
+                <com.jdit.quizio.helper.CircleImageView1
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="2dp"

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuiZiO.iml" filepath="$PROJECT_DIR$/.idea/modules/QuiZiO.iml" group="QuiZiO" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QuiZiO-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QuiZiO-app.iml" group="QuiZiO/app" />
       <module fileurl="file://$PROJECT_DIR$/Quiz - Online (version 5 .4).iml" filepath="$PROJECT_DIR$/Quiz - Online (version 5 .4).iml" group="Quiz - Online (version 5 .4)" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Quiz - Online (version 5 .4)/app" />
     </modules>

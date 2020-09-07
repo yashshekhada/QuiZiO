@@ -20,7 +20,7 @@
             android:layout_gravity="center"
             android:background="@drawable/button_bg">
 
-            <com.jdevio.quizio.helper.CircleImageView
+            <com.jdit.quizio.helper.CircleImageView
                 android:id="@+id/imgProfile"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -75,7 +75,7 @@
             android:layout_gravity="center"
             android:background="@drawable/button_bg">
 
-            <com.jdevio.quizio.helper.CircleImageView
+            <com.jdit.quizio.helper.CircleImageView
                 android:id="@+id/imgOpponent"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

@@ -37,7 +37,7 @@
             android:layoutDirection="ltr"
            >
 
-            <com.jdevio.quizio.helper.CircleImageView
+            <com.jdit.quizio.helper.CircleImageView
                 android:id="@+id/imgProfile"
                 android:layout_width="@dimen/progress_h_w"
                 android:layout_height="@dimen/progress_h_w"

@@ -6,7 +6,7 @@
     android:layout_height="wrap_content"
     android:background="@drawable/card_shadow"
     android:layout_margin="@dimen/margin_dp"
-    tools:context="com.jdevio.quizio.activity.LoginPopup">
+    tools:context="com.jdit.quizio.activity.LoginPopup">
     <!-- TODO: Update blank fragment layout -->
     <LinearLayout
         android:layout_width="match_parent"
@@ -185,7 +185,7 @@
 <!--            android:background="@drawable/google_bg"-->
 <!--            android:onClick="LoginWithGoogle">-->
 
-<!--            <com.jdevio.quizio.helper.CircleImageView1-->
+<!--            <jdituizio.helper.CircleImageView1-->
 <!--                android:layout_width="wrap_content"-->
 <!--                android:layout_height="wrap_content"-->
 <!--                app:srcCompat="@drawable/ic_google"-->
@@ -201,7 +201,7 @@
 <!--            android:background="@drawable/fb_bg"-->
 <!--            android:onClick="LoginWithFacebook">-->
 
-<!--            <com.jdevio.quizio.helper.CircleImageView1-->
+<!--            <jdituizio.helper.CircleImageView1-->
 <!--                android:layout_width="wrap_content"-->
 <!--                android:layout_height="wrap_content"-->
 <!--                android:layout_margin="2dp"-->
@@ -227,7 +227,7 @@
             android:background="@drawable/guest_bg"
             android:onClick="PlayAsGuest">
 
-            <com.jdevio.quizio.helper.CircleImageView1
+            <com.jdit.quizio.helper.CircleImageView1
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"

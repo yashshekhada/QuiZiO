@@ -31,7 +31,7 @@
             android:layout_marginTop="@dimen/margin_dp"
             android:background="@drawable/button_bg">
 
-            <com.jdevio.quizio.helper.CircleImageView
+            <com.jdit.quizio.helper.CircleImageView
                 android:id="@+id/winnerImg"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
